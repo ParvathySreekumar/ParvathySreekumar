@@ -40,9 +40,12 @@
 
 #### 🛍️ Web Development
 
-|[Clothing Website (MERN Stack)](https://github.com/ParvathySreekumar/clothing-website) | E-commerce site with user login, cart, JWT auth, and MongoDB integration.  
-|[Shape Editor](https://github.com/ParvathySreekumar/Shape-Editor) | Interactive shape editor using JavaScript and HTML.  
-|[Connect 4](https://github.com/ParvathySreekumar/Connect4_Using_Haskell) | Implemented a Connect4 game with Minimax AI, allowing the human player to play against the computer, with AI prioritizing win prevention over offense.  
+| Project Name                                      | Description                                                                                  |
+|---------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [Clothing Website (MERN Stack)](https://github.com/ParvathySreekumar/clothing-website) | E-commerce site with user login, cart, JWT auth, and MongoDB integration.                   |
+| [Shape Editor](https://github.com/ParvathySreekumar/Shape-Editor) | Interactive shape editor using JavaScript and HTML.                                           |
+| [Connect 4](https://github.com/ParvathySreekumar/Connect4_Using_Haskell) | Implemented a Connect4 game with Minimax AI, allowing the human player to play against the computer, with AI prioritizing win prevention over offense. |
+ 
 
 #### 🧠 Machine Learning
 
