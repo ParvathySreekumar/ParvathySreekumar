@@ -40,17 +40,16 @@
 
 #### 🛍️ Web Development
 
-| Project Name                                      | Description                                                                                  |
-|---------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [Clothing Website (MERN Stack)](https://github.com/ParvathySreekumar/clothing-website) | E-commerce site with user login, cart, JWT auth, and MongoDB integration.                   |
-| [Shape Editor](https://github.com/ParvathySreekumar/Shape-Editor) | Interactive shape editor using JavaScript and HTML.                                           |
-| [Connect 4](https://github.com/ParvathySreekumar/Connect4_Using_Haskell) | Implemented a Connect4 game with Minimax AI, allowing the human player to play against the computer, with AI prioritizing win prevention over offense. |
+[Clothing Website (MERN Stack)](https://github.com/ParvathySreekumar/clothing-website) : E-commerce site with user login, cart, JWT auth, and MongoDB integration.  
+[Shape Editor](https://github.com/ParvathySreekumar/Shape-Editor) : Interactive shape editor using JavaScript and HTML.  
+[Connect 4](https://github.com/ParvathySreekumar/Connect4_Using_Haskell) : Implemented a Connect4 game with Minimax AI, allowing the human player to play against the computer.
+
  
 
 #### 🧠 Machine Learning
 
 [Twitter Sentiment Analyzer](https://github.com/ParvathySreekumar/twitter-sentiment-ml) : Built and compared Logistic Regression, Naive Bayes, LSTM, and BERT on tweets with personalized preprocessing.  
-[ML Attacks & Defenses](https://github.com/ParvathySreekumar/ML-Attacks-Defenses) : Built and evaluated a DNN model on MNIST and Brain Tumor Classification datasets, testing various attacks (BIM, PGD, JSMA, C&W) and defenses (Feature Squeezing, Defensive Distillation).  
+[ML Attacks & Defenses](https://github.com/ParvathySreekumar/ML-Attacks-Defenses) : Built and evaluated a DNN model, testing various attacks (BIM, PGD, JSMA, C&W) and defenses (Feature Squeezing, Defensive Distillation).  
 [Stress detection](https://github.com/ParvathySreekumar/Stress-detection-Empatica-E4) : Developed a stress detection system using Empatica E4 data to analyze and predict stress levels based on physiological signals.  
 
 #### 🔐 Network Security
