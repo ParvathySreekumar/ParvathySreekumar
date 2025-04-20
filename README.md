@@ -17,31 +17,30 @@
 
 ### 🧰 Tech Stack & Tools
 
-## Skills & Technologies
-
 ### Web Development
 - **Frontend:** ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 - **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### Database Management
+### Database
 - **NoSQL:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 - **Relational:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![DB2](https://img.shields.io/badge/DB2-054ADA?style=flat&logo=ibm&logoColor=white)
 - **Legacy:** IDMS
 
 ### Legacy Systems
-- **Languages:** ![COBOL](https://img.shields.io/badge/COBOL-4B275F?style=flat&logo=ibm&logoColor=white) JCL
+- **Languages:** COBOL, JCL
 - **Environments:** Mainframe, TSO, ISPF
 - **Version Control:** Endevor
 
 ### Development Tools
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-- **Operating Systems:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
 ---
 
 ### 🗂️ Featured Projects
 
-#### 🛍️ [Clothing Website (MERN Stack)](https://github.com/ParvathySreekumar/clothing-website)
-E-commerce site with user login, cart, JWT auth, and MongoDB integration.
+### 🛍️ Web Development
+
+#### - [Clothing Website (MERN Stack)](https://github.com/ParvathySreekumar/clothing-website) : E-commerce site with user login, cart, JWT auth, and MongoDB integration.
 
 #### 🧠 [Twitter Sentiment Analyzer](https://github.com/ParvathySreekumar/twitter-sentiment-ml)
 Built and compared Logistic Regression, Naive Bayes, LSTM, and BERT on tweets with personalized preprocessing.
