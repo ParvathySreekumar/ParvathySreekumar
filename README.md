@@ -65,6 +65,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/parvathysreekumar/)
 - 📄 [Resume (Google Drive)]([https://your-resume-link](https://drive.google.com/file/d/1TpC2sBgLFG8RY9C4Ve8FQ6x_aYsW0V8T/view?usp=sharing))
+- 📧 [E-Mail](parvathyskumar97@gmail.com)
 
 ---
 
